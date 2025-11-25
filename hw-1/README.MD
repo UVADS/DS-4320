@@ -9,6 +9,5 @@ In this course every homework set has three parts.
 |---------|-|
 |Edited original Brahe data|[https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up](https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up)
 |Study data|[https://github.com/PhysData/course/tree/main/docs/data](https://github.com/PhysData/course/tree/main/docs/data)
-|Study code inspiration|[https://github.com/PhysData/course/blob/main/docs/notebooks/kepler.ipynb](https://github.com/PhysData/course/blob/main/docs/notebooks/kepler.ipynb)
 |Notebook|[https://github.com/PhysData/course/blob/main/docs/notebooks/kepler.ipynb](https://github.com/PhysData/course/blob/main/docs/notebooks/kepler.ipynb)|
 |Materials|[https://github.com/pulkitsingh/Mars-Orbit-Workshop](https://github.com/pulkitsingh/Mars-Orbit-Workshop)|
