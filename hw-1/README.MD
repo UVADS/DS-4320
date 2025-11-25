@@ -7,6 +7,6 @@ In this course every homework set has three parts.
 
 | Sources | |
 |---------|-|
-|Quasi original Brahe data|[https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up](https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up)
+|Edited original Brahe data|[https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up](https://archive.org/details/operaomniaedidit10brahuoft/page/126/mode/2up)
 |Study data|[https://github.com/PhysData/course/tree/main/docs/data](https://github.com/PhysData/course/tree/main/docs/data)
 |Study code inspiration|[https://github.com/PhysData/course/tree/main/docs/data](https://github.com/PhysData/course/tree/main/docs/data)
