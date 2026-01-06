@@ -1,7 +1,7 @@
 # DS 4320 - Homework Set #1
 
-![](data/brahe-data-cover.png)
-![](data/brahe-data-page.png)
+![](brahe-data-cover.png)
+![](brahe-data-page.png)
 
 | Sources | |
 |---------|-|
