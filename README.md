@@ -6,6 +6,4 @@ This is the UVADS github repo for the course DS 4320: Data by Design
 
 
 # Homework materials
-In this repository every homework has its own folder with set has three parts.
-1. Reading - material to explain the context of the homework
-2. Data - an abridged data set called "study data" that is used for the problems and is modified/inspired by the original
+From time to time it will be appropriate to include supplemental homework materials on this page
