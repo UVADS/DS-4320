@@ -9,3 +9,6 @@ This is the UVADS github repo for the course DS 4320: Data by Design
 
 # Homework materials
 From time to time it will be appropriate to include supplemental homework materials on this page
+
+# Midterm Exam Files
+Question 1 csv file: [question-1.csv](question-1.csv)
