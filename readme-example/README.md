@@ -1,4 +1,4 @@
-# Project Details - L1 Header
+# Project Details
 ### Executive Summary
 ### Name
 ### NetID
@@ -7,3 +7,14 @@
 ### Data
 ### Pipeline
 ### License
+
+## Problem Definition
+### General and Specific Problem
+### Rationale
+### Motivation
+### Press Release Headline and Link
+
+## Domain Exposition
+### Terminology
+### Background Summary
+### Table of References
