@@ -10,6 +10,16 @@ This repository README is structured as a project template. It includes a “Pro
 ### Pipeline - [analysis code](https://doi.org/10.1000/182)
 ### License - [MIT](LICENSE.md)
 
+| Field | Summary |
+|---|---|
+| Name | Peter Alonzi |
+| NetID | lpa2a |
+| DOI | [https://doi.org/10.1000/182](https://doi.org/10.1000/182) |
+| Press Release | [Data Science Project uses GFM to meet spec](https://github.com/UVADS/DS-4320/tree/main) |
+| Data | [link to data](https://doi.org/10.1000/182) |
+| Pipeline | [analysis code](https://doi.org/10.1000/182) |
+| License | [MIT](LICENSE.md) |
+
 ## Problem Definition
 ### General and Specific Problem
 * **General Problem:** "Make all materials easy to find and access"
