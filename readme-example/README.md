@@ -31,11 +31,11 @@ This repository README is structured as a project template. It includes a “Pro
 > Did you know you can make these call outs
 
 ### Useful Tech
-| Term | appearance |
-|------|------------|
-|Superscript | 2<sup>nd</sup>| 
-|Subscript | 2<sub>nd</sub>|
-|Inline code| `import numpy as np`|
+| Term | appearance | code |
+|:------|:------------:|---:|
+|Superscript | 2<sup>nd</sup>| `<sup>nd</sup>`|
+|Subscript | 2<sub>nd</sub>| `<sub>nd</sub>`|
+|Inline code| `import numpy as np`| \` \` |
 
 ### Footnotes
 This is how you perform a footnote in GFM[^1]
