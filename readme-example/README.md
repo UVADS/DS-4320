@@ -5,7 +5,7 @@ This repository README is structured as a project template. It includes a “Pro
 ### NetID - lpa2a
 ### DOI - [https://doi.org/10.1000/182](https://doi.org/10.1000/182)
 ### Press Release
-[**Data Science Project uses GFM**](https://github.com/UVADS/DS-4320/tree/main)
+[**Data Science Project uses GFM to meet spec**](https://github.com/UVADS/DS-4320/tree/main)
 ### Data - [link to data](https://doi.org/10.1000/182)
 ### Pipeline - [analysis code](https://doi.org/10.1000/182)
 ### License - [MIT](LICENSE.md)
@@ -13,29 +13,37 @@ This repository README is structured as a project template. It includes a “Pro
 ## Problem Definition
 ### General and Specific Problem
 ### Rationale
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
 ### Motivation
 ### Press Release Headline and Link
 
 ## Domain Exposition
 ### Terminology
+### Background Summary
+### Table of References
+
+---
+
+
+
+# Tips and Tricks
+
+> [!TIP]
+> Did you know you can make these call outs
+
+### Useful Tech
 | Term | appearance |
 |------|------------|
 |Superscript | 2<sup>nd</sup>| 
 |Subscript | 2<sub>nd</sub>|
 |Inline code| `import numpy as np`|
 
-### Background Summary
+### Footnotes
 This is how you perform a footnote in GFM[^1]
 [^1]: See [docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes) for details
 
-### Table of References
-asdfasdf
-asdfasdf
 
 
-## Code
+## Code Highlighting
 
 ### Formatting plain
 ```
@@ -53,7 +61,3 @@ import numpy as np
 for fruit in fruits:
     return fruit
 ```
-
-asdfasdf
-
-
