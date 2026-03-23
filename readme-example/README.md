@@ -19,9 +19,9 @@ This repository README is structured as a project template. It includes a “Pro
 ## Domain Exposition
 
 ### References
-GitHub Docs - Basic writing and formatting syntax [^1]
-GitHub Flavored Markdown Spec [^2]
-Markdown Creator's Blog [^3]
+* GitHub Docs - Basic writing and formatting syntax [^1]
+* GitHub Flavored Markdown Spec [^2]
+* Markdown Creator's Blog [^3]
 
 
 [^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
