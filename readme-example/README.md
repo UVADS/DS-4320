@@ -1,4 +1,4 @@
-# Project Details
+# DS 4320 Project 1 - Solving World Hunger
 ### Executive Summary
 This repository README is structured as a project template. It includes a “Project Details” section with an “Executive Summary” placeholder. It lists author details including name, NetID, and a DOI link. It includes a press release headline with a URL and outlines “Data,” “Pipeline,” and “License” sections without content. It defines a “Problem Definition” section with placeholders for general and specific problem, rationale, motivation, and a press release headline link. It also provides a “Domain Exposition” section with placeholders for terminology, background summary, and a table of references.
 ### Name - Peter Alonzi
