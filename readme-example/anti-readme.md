@@ -1,4 +1,4 @@
-DS 4320 Project 1 - Solving World Hunger
+DS 4320 Project 1 - Solving using GFM
 
 Executive Summary
 
@@ -12,7 +12,7 @@ DOI - https://doi.org/10.1000/182
 
 Press Release
 
-Data Science Project solves world Hunger https://github.com/UVADS/DS-4320/tree/main
+Data Science Project solves using GFM https://github.com/UVADS/DS-4320/tree/main
 
 Data - link to data https://doi.org/10.1000/182
 
