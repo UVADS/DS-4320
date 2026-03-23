@@ -24,10 +24,14 @@ This repository README is structured as a project template. It includes a “Pro
 |Subscript | 2<sub>nd</sub>| `<sub>nd</sub>`|
 |Inline code| `import numpy as np`| \` \` |
 |Table justification | use colons in table header row | `:---` or `:---:` or `---:`|
+
 ### Background Summary
-### Code Highlighting
 > [!TIP]
 > Did you know you can make these call outs
+
+
+
+### Code Highlighting
 
 #### Formatting plain
 ```
