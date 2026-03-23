@@ -36,6 +36,7 @@ This repository README is structured as a project template. It includes a “Pro
 |Superscript | 2<sup>nd</sup>| `<sup>nd</sup>`|
 |Subscript | 2<sub>nd</sub>| `<sub>nd</sub>`|
 |Inline code| `import numpy as np`| \` \` |
+|Table justification | use colons in table header row | `:---` or `:---:` or `---:`|
 
 ### Footnotes
 This is how you perform a footnote in GFM[^1]
