@@ -1,6 +1,9 @@
 # DS 4320 Project 1 - Using GFM
 ### Executive Summary
-This repository README is structured as a project template. It includes a “Project Details” section with an “Executive Summary” placeholder. It lists author details including name, NetID, and a DOI link. It includes a press release headline with a URL and outlines “Data,” “Pipeline,” and “License” sections without content. It defines a “Problem Definition” section with placeholders for general and specific problem, rationale, motivation, and a press release headline link. It also provides a “Domain Exposition” section with placeholders for terminology, background summary, and a table of references.
+This README now documents a GFM-focused DS 4320 project and includes completed project metadata (name, NetID, DOI, links, and license) plus a summary table for quick reference. It also contains a defined problem statement, rationale, references with footnotes, a terminology table, callout examples, and code highlighting examples to demonstrate practical GitHub Flavored Markdown usage.
+
+<br>
+<br>
 ### Name - Peter Alonzi
 ### NetID - lpa2a
 ### DOI - [https://doi.org/10.1000/182](https://doi.org/10.1000/182)
@@ -9,8 +12,8 @@ This repository README is structured as a project template. It includes a “Pro
 ### Data - [link to data](https://doi.org/10.1000/182)
 ### Pipeline - [analysis code](https://doi.org/10.1000/182)
 ### License - [MIT](LICENSE.md)
-
-| Field | Summary |
+---
+| Spec | Value |
 |---|---|
 | Name | Peter Alonzi |
 | NetID | lpa2a |
@@ -19,6 +22,9 @@ This repository README is structured as a project template. It includes a “Pro
 | Data | [link to data](https://doi.org/10.1000/182) |
 | Pipeline | [analysis code](https://doi.org/10.1000/182) |
 | License | [MIT](LICENSE.md) |
+
+<br>
+<br>
 
 ## Problem Definition
 ### General and Specific Problem
