@@ -18,33 +18,16 @@ This repository README is structured as a project template. It includes a “Pro
 
 ## Domain Exposition
 ### Terminology
-### Background Summary
-### Table of References
-
----
-
-
-
-# Tips and Tricks
-
-> [!TIP]
-> Did you know you can make these call outs
-
-### Useful Tech
 | Term | appearance | code |
 |:------|:------------:|---:|
 |Superscript | 2<sup>nd</sup>| `<sup>nd</sup>`|
 |Subscript | 2<sub>nd</sub>| `<sub>nd</sub>`|
 |Inline code| `import numpy as np`| \` \` |
 |Table justification | use colons in table header row | `:---` or `:---:` or `---:`|
-
-### Footnotes
-This is how you perform a footnote in GFM[^1]
-[^1]: See [docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes) for details
-
-
-
+### Background Summary
 ## Code Highlighting
+> [!TIP]
+> Did you know you can make these call outs
 
 ### Formatting plain
 ```
@@ -66,3 +49,17 @@ x = 137
 for fruit in fruits:
     print fruit
 ```
+
+GitHub Docs - Basic writing and formatting syntax [^1]
+GitHub Flavored Markdown Spec [^2]
+Markdown Creator's Blog [^3]
+
+
+[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[^2]: https://github.github.com/gfm/
+[^3]: https://daringfireball.net/projects/markdown/
+
+### Table of References
+
+
+
