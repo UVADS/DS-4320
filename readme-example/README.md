@@ -25,11 +25,11 @@ This repository README is structured as a project template. It includes a “Pro
 |Inline code| `import numpy as np`| \` \` |
 |Table justification | use colons in table header row | `:---` or `:---:` or `---:`|
 ### Background Summary
-## Code Highlighting
+### Code Highlighting
 > [!TIP]
 > Did you know you can make these call outs
 
-### Formatting plain
+#### Formatting plain
 ```
 import numpy as np
 
@@ -40,7 +40,7 @@ for fruit in fruits:
 ```
 
 
-### Formatting with python
+#### Formatting with python
 ```python
 import numpy as np
 
