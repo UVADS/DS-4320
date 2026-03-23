@@ -18,5 +18,11 @@ This repository README is structured as a project template. It includes a “Pro
 
 ## Domain Exposition
 ### Terminology
+| Term | appearance |
+|------|------------|
+|Superscript | 2<sup>nd</sup>| 
+|Subscript | 2<sub>nd</sub>|
+|inline code| `import numpy as np`|
+
 ### Background Summary
 ### Table of References
