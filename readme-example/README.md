@@ -50,8 +50,10 @@ This is how you perform a footnote in GFM[^1]
 ```
 import numpy as np
 
+x = 137
+
 for fruit in fruits:
-    return fruit
+    print fruit
 ```
 
 
@@ -59,6 +61,8 @@ for fruit in fruits:
 ```python
 import numpy as np
 
+x = 137
+
 for fruit in fruits:
-    return fruit
+    print fruit
 ```
