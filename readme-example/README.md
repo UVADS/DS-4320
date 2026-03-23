@@ -22,7 +22,10 @@ This repository README is structured as a project template. It includes a “Pro
 |------|------------|
 |Superscript | 2<sup>nd</sup>| 
 |Subscript | 2<sub>nd</sub>|
-|inline code| `import numpy as np`|
+|In-line code| `import numpy as np`|
 
 ### Background Summary
+This is how you perform a footnote in GFM[^1]
+[^1]: See [docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#footnotes) for details
+
 ### Table of References
