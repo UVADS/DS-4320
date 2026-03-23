@@ -13,6 +13,8 @@ This repository README is structured as a project template. It includes a “Pro
 ## Problem Definition
 ### General and Specific Problem
 ### Rationale
+> [!WARNING]
+> Urgent info that needs immediate user attention to avoid problems.
 ### Motivation
 ### Press Release Headline and Link
 
