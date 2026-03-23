@@ -12,9 +12,13 @@ This repository README is structured as a project template. It includes a “Pro
 
 ## Problem Definition
 ### General and Specific Problem
+* **General Problem:** "Make all materials easy to find and access"
+* **Specific Problem:** Demonstrate key features of GFM that enables a more readable document.
 ### Rationale
+The core issue is that no one has been trained in the use of GFM, rather people pick up bits and pieces here and there. In order to use the tool effectively the user does not need to focus on "easy to find" but rather how the tool itself works. The beauty of the Markdown ecosystem is that it takes care of the ease for you. You just have to know which tool to select.
 ### Motivation
 ### Press Release Headline and Link
+[**Data Science Project uses GFM to meet spec**](https://github.com/UVADS/DS-4320/tree/main)
 
 ## Domain Exposition
 
