@@ -3,7 +3,9 @@
 This README now documents a GFM-focused DS 4320 project and includes completed project metadata (name, NetID, DOI, links, and license) plus a summary table for quick reference. It also contains a defined problem statement, rationale, references with footnotes, a terminology table, callout examples, and code highlighting examples to demonstrate practical GitHub Flavored Markdown usage.
 
 <br>
+
 <br>
+
 ### Name - Peter Alonzi
 ### NetID - lpa2a
 ### DOI - [https://doi.org/10.1000/182](https://doi.org/10.1000/182)
@@ -23,7 +25,9 @@ This README now documents a GFM-focused DS 4320 project and includes completed p
 | Pipeline | [analysis code](https://doi.org/10.1000/182) |
 | License | [MIT](LICENSE.md) |
 
+
 <br>
+
 <br>
 
 ## Problem Definition
