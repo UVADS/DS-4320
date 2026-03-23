@@ -17,6 +17,17 @@ This repository README is structured as a project template. It includes a “Pro
 ### Press Release Headline and Link
 
 ## Domain Exposition
+
+### References
+GitHub Docs - Basic writing and formatting syntax [^1]
+GitHub Flavored Markdown Spec [^2]
+Markdown Creator's Blog [^3]
+
+
+[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+[^2]: https://github.github.com/gfm/
+[^3]: https://daringfireball.net/projects/markdown/
+
 ### Terminology
 | Term | appearance | code |
 |:------|:------------:|---:|
@@ -54,16 +65,6 @@ for fruit in fruits:
     print fruit
 ```
 
-GitHub Docs - Basic writing and formatting syntax [^1]
-GitHub Flavored Markdown Spec [^2]
-Markdown Creator's Blog [^3]
-
-
-[^1]: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-[^2]: https://github.github.com/gfm/
-[^3]: https://daringfireball.net/projects/markdown/
-
-### Table of References
 
 
 
