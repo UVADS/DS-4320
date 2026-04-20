@@ -8,7 +8,6 @@
 |-------|--------------|
 | Problem Definition | 1, 9, 10 |
 | Goal Setting | 1, 9, 10 |
-| GDA Constraint Triangle | 9,10 |
 | Synthetic Data | 2 |
 | Domain Localization | 2 | 
 | Communication Theory | 2 |
@@ -17,16 +16,17 @@
 | Data collection/creation | 3 |
 | Collection bias | 3 |
 | Normal Form | 4 |
+| Schema (Explicit and Implicit) | 4, 9-14 |
+| Data Models | 4, 9-15 |
 | Data Dictionary | 5 |
-| Schema (Explicit and Implicit) | 4 and 9 - 14 |
 | Metadata | 5,6 |
 | FAIR v CARE | 6 |
 | Licenses | 6 |
 | Replication Crisis | 6 |
+| GDA Constraint Triangle | 9,10 |
 | GitHub/Readme/GFM | 11 |
 | ObjectDB | 13 |
 | ORIM | 13 |
-| Data Models | 4, 9-15 |
 | SQL, Python, Markdown, JSON | 1-15 |
 | File Permissions | 1-15 |
 
