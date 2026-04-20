@@ -12,3 +12,7 @@ From time to time it will be appropriate to include supplemental homework materi
 
 # Midterm Exam Files
 Question 1 csv file: [question-1.csv](question-1.csv)
+
+# Final Exam Files
+* Mid-term term sheet - [ds4320-midterm-definitions-telos.md](ds4320-midterm-definitions-telos.md)
+* Final exam topic sheet - [ds4320-final-topics.md](ds4320-final-topics.md)
