@@ -15,7 +15,7 @@
 | What is Information/Knowledge | 2 |
 | Data collection/creation | 3 |
 | Collection bias | 3 |
-| Normal Form | 4 |
+| Relational Model & Normal Form | 4 |
 | Schema (Explicit and Implicit) | 4, 9-14 |
 | Data Models | 4, 9-15 |
 | Data Dictionary | 5 |
